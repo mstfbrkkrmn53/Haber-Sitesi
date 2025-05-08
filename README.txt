@@ -170,7 +170,3 @@ c) Mail Gönderim Hatası:
    - SMTP ayarlarını kontrol edin
    - Gmail uygulama şifresini kontrol edin
    - Port numarasını kontrol edin
-
-12. Lisans:
-----------
-Bu proje MIT lisansı altında lisanslanmıştır. 
