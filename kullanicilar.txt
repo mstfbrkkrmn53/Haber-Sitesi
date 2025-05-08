@@ -1,0 +1,86 @@
+Haber Sitesi Kullanıcı Bilgileri
+===============================
+
+1. Yönetici (Admin) Kullanıcısı:
+-------------------------------
+Kullanıcı Adı: admin
+E-posta: admin@haber.com
+Şifre: 123456
+Rol: admin
+Yetkiler: Tam yetki
+- Haber yönetimi
+- Kullanıcı yönetimi
+- Yorum yönetimi
+- Ayar yönetimi
+- Medya yönetimi
+- İstatistik görüntüleme
+
+2. Editör Kullanıcısı:
+---------------------
+Kullanıcı Adı: editor
+E-posta: editor@haber.com
+Şifre: 123456
+Rol: editor
+Yetkiler:
+- Haber yönetimi
+- Yorum yönetimi
+- Medya yükleme
+- İstatistik görüntüleme
+
+3. Normal Kullanıcı:
+------------------
+Kullanıcı Adı: user
+E-posta: user@haber.com
+Şifre: 123456
+Rol: user
+Yetkiler:
+- Haber görüntüleme
+- Yorum yapma
+- Profil yönetimi
+
+Kullanıcı Rolleri ve Yetkileri:
+==============================
+
+1. Admin (Yönetici):
+-------------------
+- Tüm yetkilere sahip
+- Sistem ayarlarını değiştirebilir
+- Kullanıcıları yönetebilir
+- Tüm içerikleri yönetebilir
+- İstatistikleri görüntüleyebilir
+- Yedekleme yapabilir
+
+2. Editör:
+---------
+- Haber ekleyebilir, düzenleyebilir, silebilir
+- Yorumları yönetebilir
+- Medya yükleyebilir
+- İstatistikleri görüntüleyebilir
+- Kategorileri yönetebilir
+
+3. Yazar:
+--------
+- Haber ekleyebilir, düzenleyebilir
+- Kendi haberlerini yönetebilir
+- Medya yükleyebilir
+- Yorumları görüntüleyebilir
+
+4. Normal Kullanıcı:
+------------------
+- Haberleri görüntüleyebilir
+- Yorum yapabilir
+- Profilini yönetebilir
+- Bildirimleri alabilir
+
+Güvenlik Notları:
+================
+1. Tüm kullanıcılar ilk girişte şifrelerini değiştirmelidir
+2. Güçlü şifre kullanımı zorunludur
+3. İki faktörlü doğrulama önerilir
+4. Şüpheli aktiviteler loglanır
+5. Başarısız giriş denemeleri sınırlandırılır
+
+İletişim:
+========
+Teknik destek için: support@haber.com
+Yönetici iletişim: admin@haber.com 
